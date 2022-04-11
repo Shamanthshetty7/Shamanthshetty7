@@ -35,10 +35,10 @@ You can click the Preview link to take a look at your changes.
 
 <p >
 <a href="https://github.com/Shamanthshetty7">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shamanthshetty7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shamanthshetty7&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
     
     
-![](https://komarev.com/ghpvc/?username=your-Shamanthshetty7&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Shamanthshetty7&label=PROFILE+VIEWS)
 
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/X3n0K9se3IebUv8Evb/giphy.gif?cid=ecf05e47l44uqep0ff6uc2f0oinfzwsasbvkd211jg70rmgw&rid=giphy.gif&ct=s" width="200"/>
