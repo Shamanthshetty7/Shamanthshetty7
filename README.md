@@ -35,8 +35,8 @@ You can click the Preview link to take a look at your changes.
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamanthshetty7&layout=compact&theme=vision-friendly-dark)
 <img src="https://media1.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif?cid=ecf05e47mm0jvfhygu8gnhv6kheejf4v3dhptbk5kiuii9e7&rid=giphy.gif&ct=s" width="400" align="right"/>
-### ⚙️ &nbsp;GitHub Analytics
 
+ ### ⚙️ &nbsp;GitHub Analytics
 <p >
 <a href="https://github.com/Shamanthshetty7">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shamanthshetty7&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
