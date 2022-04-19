@@ -1,12 +1,12 @@
 - 👋 Hi, This is Shamanth S Shetty 
 - 👨‍🎓 Currently persuing B.E in Information Science and Engineering
-- 👀 I’m interested in ...Machine learning and Data Science ,Web devolopment,Software devolpment.
+- 👀 I’m interested in ... Machine learning and Data Science ,Web devolopment,Software devolpment.
 - 👀 In my free time i always look forward to learn something new
-- 🌱 I’m currently learning ...C programming,Java,database(mysql),Python,Data Science and Machine Learning.
+- 🌱 I’m currently learning ... C programming ,Java ,database(mysql) ,Python ,Data Science and Machine Learning.
 - 💞️ I’m looking to collaborate on ... <a href="https://www.linkedin.com/in/shamanth-s-shetty/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-- 📫 How to reach me  ...through shamanthshetty51@gmail.com
+- 📫 How to reach me  ... through shamanthshetty51@gmail.com
 
 <!---
 Shamanthshetty7/Shamanthshetty7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
