@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ... <a href="https://www.linkedin.com/in/shamanth-s-shetty/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-- 📫 How to reach me  ..through shamanthshetty51@gmail.com
+- 📫 How to reach me  ...through shamanthshetty51@gmail.com
 
 <!---
 Shamanthshetty7/Shamanthshetty7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
