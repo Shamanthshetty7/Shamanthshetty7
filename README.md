@@ -3,7 +3,7 @@
 - 👀 I’m interested in ... Machine learning and Data Science ,Web devolopment,Software devolpment.
 - 👀 In my free time i always look forward to learn something new
 - 🌱 I’m currently learning ... C programming ,Java ,database(mysql) ,Python .
-- 💞️ I’m looking to collaborate on ... <a href="https://www.linkedin.com/in/shamanth-s-shetty/">
+- 💞️ I’m looking to collaborate on .. <a href="https://www.linkedin.com/in/shamanth-s-shetty/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 - 📫 How to reach me  ... through shamanthshetty51@gmail.com
