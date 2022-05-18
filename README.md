@@ -33,7 +33,6 @@ You can click the Preview link to take a look at your changes.
 
   
 <a href="https://github.com/Shamanthshetty7">
-   
 <img src="https://media1.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif?cid=ecf05e47mm0jvfhygu8gnhv6kheejf4v3dhptbk5kiuii9e7&rid=giphy.gif&ct=s" width="400" align="right"/>
 
 ### ⚙️ &nbsp;GitHub Analytics
