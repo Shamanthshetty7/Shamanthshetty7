@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
   
 <a href="https://github.com/Shamanthshetty7">
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamanthshetty7&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.PAT_1.vercel.app/api/top-langs/?username=Shamanthshetty7&layout=compact&theme=vision-friendly-dark)
 <img src="https://media1.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif?cid=ecf05e47mm0jvfhygu8gnhv6kheejf4v3dhptbk5kiuii9e7&rid=giphy.gif&ct=s" width="400" align="right"/>
 
 ### ⚙️ &nbsp;GitHub Analytics
