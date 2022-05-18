@@ -31,9 +31,6 @@ You can click the Preview link to take a look at your changes.
     
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shamanthshetty7&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D)
 
-  
-<a href="https://github.com/Shamanthshetty7">
-<img src="https://media1.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif?cid=ecf05e47mm0jvfhygu8gnhv6kheejf4v3dhptbk5kiuii9e7&rid=giphy.gif&ct=s" width="400" align="right"/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 <a href="https://github.com/Shamanthshetty7">
@@ -41,6 +38,9 @@ You can click the Preview link to take a look at your changes.
     
     
 ![](https://komarev.com/ghpvc/?username=Shamanthshetty7&label=PROFILE+VIEWS)
+    
+<a href="https://github.com/Shamanthshetty7">
+<img src="https://media1.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif?cid=ecf05e47mm0jvfhygu8gnhv6kheejf4v3dhptbk5kiuii9e7&rid=giphy.gif&ct=s" width="400" align="centre"/>
 
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/TCBJw2ZLdeOg2bDyLh/giphy.gif?cid=ecf05e47d0olnjayfivfviibag3waeotez3h0l49ryrw842w&rid=giphy.gif&ct=s" width="200"/>
