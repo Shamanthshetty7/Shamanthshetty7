@@ -1,6 +1,7 @@
 - 👋 Hi, This is Shamanth S Shetty 
 - 👨‍🎓 Currently persuing B.E in Information Science and Engineering
 - 👀 I’m interested in ... Machine learning and Data Science ,Web devolopment,Software devolpment.
+- 👀 I enjoy being challenged and engaging with projects that enable me to learn new skills.
 - 👀 In my free time i always look forward to learn something new.
 - 🌱 I’m currently learning ... C programming ,Java ,database(mysql) ,Python .
 - 💞️ I’m looking to collaborate on ... <a href="https://www.linkedin.com/in/shamanth-s-shetty/">
