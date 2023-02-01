@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
  <div >
   <img src="https://user-images.githubusercontent.com/86283625/162602056-2ab3a406-3e2b-4801-8b3e-5dba963dcbba.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/86283625/162602138-da3e2a74-d7a4-4927-a74f-e4a9ede0a865.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
- 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" title="php" **alt="PHP" width="60" height="60"/>nbsp;
 </div>
 
 <hr>
